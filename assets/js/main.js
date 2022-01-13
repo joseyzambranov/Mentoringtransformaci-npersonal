@@ -248,7 +248,7 @@ const countdown = (deadline, elem, finalMessage) =>{
 },1000)
     }
 
-    countdown('Jan 30 2022 17:00:00 GMT-0500', 'clock', '<div class="countdown section"> <h2 class="section__title">¿Cuanto falta para la Conferencia?</h2><h2 class="section__subtitle">¡ Ya comenzó !</h2><div class="countdown__button"><a href="https://wa.me/+593987236631?text=Me%20interesa%20el%20curso%20de%20transformación" class="button">Quiero estar en la próxima clase</a></div></div>');
+    countdown('Jan 30 2022 16:00:00 GMT-0500', 'clock', '<div class="countdown section"> <h2 class="section__title">¿Cuanto falta para la Conferencia?</h2><h2 class="section__subtitle">¡ Ya comenzó !</h2><div class="countdown__button"><a href="https://wa.me/+593987236631?text=Me%20interesa%20el%20curso%20de%20transformación" class="button">Quiero estar en la próxima clase</a></div></div>');
 
 /*==================== TESTIMONIAL ====================*/
 let swiperTestimonial = new Swiper('.testimonial__container', {
